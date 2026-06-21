@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Cross-surface auth primitives — auth.oriz.in URL helpers, Firebase ID-token verify, refresh logic. Runtime-agnostic. Peer-dep of auth-wxt / auth-vsc / auth-cli.",
   "type": "module",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chirag Singhal <chirag@oriz.in>",
   "homepage": "https://github.com/chirag127/auth-core-npm-pkg#readme",
   "repository": { "type": "git", "url": "git+https://github.com/chirag127/auth-core-npm-pkg.git" },
